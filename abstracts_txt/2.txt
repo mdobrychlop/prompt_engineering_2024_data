@@ -1,0 +1,7 @@
+Background: The global number of incident cases of multidrug-resistant (MDR) tuberculosis (TB) in 2000 was estimated to be 272,906 (95% confidence interval [CI], 184,948-414,295). For accurate planning of TB control programs, this estimate and others have been revised using data from additional countries and by including in the model previously treated TB cases, which had not been accounted for in the previous analysis.
+
+Methods: Multiple logistic regression was used to identify variables that were predictive of MDR-TB frequency among new and previously treated cases surveyed in 90 and 77 countries, respectively. These variables were then used to estimate MDR-TB frequencies in countries that had not been surveyed.
+
+Results: The total number of MDR-TB cases estimated to have occurred worldwide in 2004 is 424,203 (95% CI, 376,019-620,061), or 4.3% (95% CI, 3.8%-6.1%) of all new and previously treated TB cases. In the same year, 181,408 (95% CI, 135,276-319,017) MDR-TB cases were estimated to have occurred among previously treated TB cases alone. Three countries--China, India, and the Russian Federation--accounted for 261,362 (95% CI, 180,779-414,749) MDR-TB cases, or 62% of the estimated global burden.
+
+Conclusions: These updated sets of estimates incorporating previously treated TB cases call for an urgent plan to expand appropriate diagnostic and treatment services for patients with MDR-TB in low-resource settings.
